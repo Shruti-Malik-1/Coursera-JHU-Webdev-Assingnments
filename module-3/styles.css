@@ -1,0 +1,25 @@
+.brand-name {
+  font-family: 'Teko', sans-serif;
+  font-size: 2rem;
+}
+
+ul {
+  font-family: 'Prompt', sans-serif;
+  font-weight: 500;
+}
+
+h1 {
+  color: #610345;
+  font-family: 'Prompt', sans-serif;
+  font-size: 3rem;
+  margin: 2rem 0;
+}
+
+section {
+  font-family: 'Prompt', sans-serif;
+  font-weight: 300;
+  background-color: #107E7D;
+  height: 1000px;
+  margin-bottom: 40px;
+  padding: 20px;
+}
